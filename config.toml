@@ -25,7 +25,7 @@ paginate = 5 #frontpage pagination
   slogan = "Researching political identity formation"
   description = "Colin Cepuran's website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
+  author = "Colin Cepuran"
   authorLink = "https://appernetic.io/"
   bio = [
     "Colin Cepuran is a political scientist and a Ph.D. candidate at Cornell University."
