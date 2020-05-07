@@ -53,7 +53,7 @@ paginate = 5 #frontpage pagination
 
   # Nav links in the side bar
   [[menu.main]]
-  name = "Home"
+  name = "Research"
   url = "/"
   weight = 1
 
@@ -61,11 +61,21 @@ paginate = 5 #frontpage pagination
   name = "About"
   url = "about/"
   weight = 2
-
+  
   [[menu.main]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
   weight = 3
+  
+  [[menu.main]]
+  name = "CV"
+  url = "CV/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Resume"
+  url = "Resume/"
+  weight = 5
 
 # this will also be in author bio if there is no writer.
   [params.social]
