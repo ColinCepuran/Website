@@ -11,5 +11,5 @@ More broadly, my work sits at the intersection of Race, Ethnicity, and Politics,
 
 I grew up in exurban Detroit, and got my B.A. at Kalamazoo College.  I do my best to fill my free time with watching and playing sports, drinking coffee and beer, weight training, and listening to sleepy music.  When I can, my favorite thing to do is to get lost in the mountains near Ithaca.
 
-[1]: /img/about.jpg
+[1]: /img/hs.jpg
 
