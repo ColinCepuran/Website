@@ -5,7 +5,7 @@ title: About me
 
 I study political attitude and identity at formation at Cornell University, where I am a Ph.D. candidate in the Government Department.  My dissertation examines how DACA shaped the political attitudes and racial/ethnic identities of the Dreamers.
 
-More broadly, my work sits at the intersection of Race, Ethnicity, and Politics, Policy Studies, and American Political Development.  Prior to my study at Cornell, I worked in local politics, consulting for multiple local races in Southwestern Michigan, and managed a State Representative's re-election campaign.
+More broadly, my work sits at the intersection of Race, Ethnicity, and Politics, Policy Studies, and American Political Development.  Prior to my study at Cornell, I worked in local politics, consulting for multiple races in Southwestern Michigan, and managed a State Representative's re-election campaign.
 
 ![This is me][1]
 
