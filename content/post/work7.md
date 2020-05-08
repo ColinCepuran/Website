@@ -1,4 +1,6 @@
 ---
+categories:
+- Teaching
 date: "2020-01-19T19:57:40+05:30"
 draft: false
 image: img/portfolio/FWS.png
