@@ -12,6 +12,8 @@ writer: Colin Cepuran
 
 My dissertation examines how DACA shaped the political attitudes and racial/ethnic identities of the Dreamers.  The program's arbitrary cutoffs enable me to identify how the initiative shaped the attitudes of the eligible relative to the most narrowly ineligible.  I find largely adverse results.
 
+<!--more-->
+
 I draw on numerous surveys of political attitudes and behavior that oversample Latinx and Asian Americans to identify DACA's influence.  I draw on theories of immigrant incorporation, policy feedback, and policy threats to identify attitudes and identities that are most likely to respond to the initiative.
 
 My dissertation presents evidence that DACA did not bolster the American identification, panethnic identity or solidarity, or engagement with politics of those eligible.  On the other hand, the policy appears to have diminished the American identification and political interest of some groups of eligible Americans.  Finally, I present evidence of different responses among different ethnic groups.
