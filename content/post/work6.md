@@ -1,11 +1,11 @@
 ---
 categories:
 - Papers
-date: "2020-01-19T19:57:40+05:30"
+date: "2020-01-30T19:57:40+05:30"
 draft: false
 image: img/portfolio/RelDisc.png
 showonlyimage: false
-title: First Year Writing Seminar
+title: Group Position in the Trump Era
 weight: 6
 writer: Colin Cepuran
 ---
@@ -19,11 +19,9 @@ We draw on data from numerous vintages of the Collaborative Multiracial Post-Ele
 
 ## Next steps
 
-My future research into DACA's influence on American politics will include:
+Our future research into perceptions of racial/ethnic inequality in the United States will:
 
-- examining how DACA catalyzed policy feedback effects in the public at large.
-- tracing how different organizations leveraged identity claims in their immigration reform advocacy.
-- describing the prevalence of strategic/confounding reports of immigration status on public opinion surveys, and identifying the predictors of confounding reports.
+- use experimental methods to identify how white Americans' policy preferences connect to their perceptions of group status.
 
 ## Above
 

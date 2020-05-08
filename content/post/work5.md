@@ -1,34 +1,32 @@
 ---
 categories:
-- photography
-date: "2017-12-25T19:53:42+05:30"
+- Papers
+date: "2020-04-06T19:57:40+05:30"
 draft: false
-image: img/portfolio/railroad-forest1.jpg
-showonlyimage: true
-title: A Totally Response Theme
+image: img/portfolio/Monuments.png
+showonlyimage: false
+title: After the Monuments Fall
 weight: 5
-writer: Lukas Herman
+writer: Colin Cepuran
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+This paper (with Kanika Khanna) under review presents evidence that Confederate Monument Removals in whites' ZIP codes leaded to an increase in whites' reports of racial prejudice that endured for over a year.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In this paper, we draw on scholarship on white racial attitudes and contextual political behavior to develop a theory of how Confederate Monument Removals shape the political attitudes of American whites.  We draw on data from numerous vintages of the Cooperative Congressional Elections Study, and the Southern Poverty Law Center to identify the effect of Confederate Monument Removals.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+In brief, we find that the removal of a Confederate Monument in a white Americans' ZIP code corresponded to an increase in their scores on DeSante and Smith's FIRE scale that endured for almost a year.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Next steps
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+This research motivates deeper investigation into:
 
-## Header Level 2
+- the ontology of so-called "modern racism:" what is *modern* about white Americans' investment into the historical legacy of the Confederacy?
+- how contextual shocks shape Americans racial/ethnic identities.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Above
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The timing of Confederate Monument Removals in American's ZIP codes.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+SPLC "Whose Heritage?" Dataset supplemented by authors' research.  Data source: Southern Poverty Law Center. 2019. “Whose Heritage? Public Symbols of the Confederacy.” February 01. [Download data](https://www.splcenter.org/20190201/whose-heritage-public-symbols-confederacy).
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
