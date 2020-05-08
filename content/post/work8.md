@@ -1,32 +1,32 @@
 ---
-date: "2018-02-14T19:59:22+05:30"
+categories:
+- Dissertation
+date: "2020-05-08T20:23:59+05:30"
 draft: false
-image: img/portfolio/camera1.jpg
-showonlyimage: false
-title: A Post with lot of comments
+image: img/portfolio/Diss.png
+showonlyimage: true
+title: Dissertation
 weight: 8
-writer: Göran Svensson
+writer: Colin Cepuran
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+My dissertation examines how DACA shaped the political attitudes and racial/ethnic identities of the Dreamers.  The program's arbitrary cutoffs enable me to identify how the initiative shaped the attitudes of the eligible relative to the most narrowly ineligible.  I find largely adverse results.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+I draw on numerous surveys of political attitudes and behavior that oversample Latinx and Asian Americans to identify DACA's influence.  I draw on theories of immigrant incorporation, policy feedback, and policy threats to identify attitudes and identities that are most likely to respond to the initiative.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+My dissertation presents evidence that DACA did not bolster the American identification, panethnic identity or solidarity, or engagement with politics of those eligible.  On the other hand, the policy appears to have diminished the American identification and political interest of some groups of eligible Americans.  Finally, I present evidence of different responses among different ethnic groups.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Next steps
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+My future research into DACA's influence on American politics will include:
 
-## Header Level 2
+- examining how DACA catalyzed policy feedback effects in the public at large.
+- tracing how different organizations leveraged identity claims in their immigration reform advocacy.
+- describing the prevalence of strategic/confounding reports of immigration status on public opinion surveys, and identifying the predictors of confounding reports.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Above
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+DACA eligbility is negatively associated with American identification in Latinx Americans.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Author's calculations.  Data source: Schildkraut, Deborah. 2016. "American Identity and Representation Survey, 2012 ([ICPSR 36410](https://www.icpsr.umich.edu/web/ICPSR/studies/36410))." 
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
