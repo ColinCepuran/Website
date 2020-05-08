@@ -1,34 +1,35 @@
 ---
 categories:
-- test
-date: "2017-11-21T19:50:47+05:30"
+- Papers
+date: "2020-04-08T19:57:40+05:30"
 draft: false
-image: ""
+image: img/portfolio/Segregation.png
 showonlyimage: false
-title: A post without an Image
+title: Segregation and White Identity
 weight: 4
-writer: Göran Svensson
+writer: Colin Cepuran
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This paper (with Justin Berry)--under review--presents preliminary evidence that, despite prominent theories suggesting a relationship, segregation is not correlated with white racial identity attachment or consciousness.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In this paper, we draw on theories of group competition, urban politics, and the construction of race/ethnicity to indicate reasons to expect a relationship between segregation and white identity.  We draw on data from the 2008 National Politics Study and Jessica Trounstine's data on segregation in the United States to test that relationship.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Unexpectedly, we present evidence that numerous measures of segregation are uncorrelated with whites' racial identity attachment or consciousness.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Next steps
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+This research presents evidence that scholars should study:
 
-## Header Level 2
+- what *does* antecede identity attachment in whites?
+- how other racial/ethnic groups' identities respond to their context.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Above
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Predicted levels of white racial identity attachment do not change at different levels of segregation.  Source: authors' calculations.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Data:
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Jackson, J. S., Hutchings, V. L., Wong, C., Brown, R. E., & ICPSR (2008). National politics study, 2008. Ann Arbor, MI: ICPSR. [View data](https://www.icpsr.umich.edu/web/RCMD/studies/36167).
+
+Trounstine, J. (2018). *Segregation by design: Local politics and inequality in American cities*: Cambridge University Press. [View data](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12227).
