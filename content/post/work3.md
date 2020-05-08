@@ -3,7 +3,7 @@ categories:
 - Papers
 date: "2020-05-01T19:57:40+05:30"
 draft: false
-image: img/portfolio/RRD.png
+image: img/portfolio/RRRD.png
 showonlyimage: false
 title: Prejudice, Perceived Discrimination, and Turnout
 weight: 3
