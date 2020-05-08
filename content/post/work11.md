@@ -1,7 +1,7 @@
 ---
 date: "2018-09-30T20:23:59+05:30"
 draft: false
-image: img/portfolio/paper-presentation.jpg
+image: img/portfolio/Diss.png
 showonlyimage: true
 title: Item with image
 weight: 11
