@@ -1,34 +1,33 @@
 ---
 categories:
-- travel
-date: "2017-05-05T19:44:32+05:30"
+- Papers
+date: "2020-04-08T19:57:40+05:30"
 draft: false
-image: img/portfolio/bridge1.jpg
+image: img/portfolio/RRD.png
 showonlyimage: false
-title: Another Awesome Post
+title: Prejudice, Perceived Discrimination, and Turnout
 weight: 3
-writer: Göran Svensson
+writer: Colin Cepuran
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+This working paper presents evidence that racial resentment and perceptions of relative deprivation have independent, negative effects on white voter turnout, but that, interactively, they have a positive effect.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+To make these claims, I draw on scholarship on group threat and political polarization to theorize a link between white's perceptions of relative deprivation, racial resentment, and voter turnout.  I use data from the 2012 and 2016 vintages of the ANES to test that relationship.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+I present evidence of strong negative relationships between racial resentment, relative deprivation, and white turnout.  However, I also show that, when interacted, those variables have a positive association with white turnout.  I argue that this indicates that some whites may not be mobilized by their prejudice unless they connect their prejudice to illusory anti-white discrimination.  Conversely, I argue that these findings present evidence that whites who perceive substantial anti-white discrimination may not internalize racist elite rhetoric, and thus not be mobilized by prejudicial elite appeals.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Next steps
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+This research presents evidence that scholars should study:
 
-## Header Level 2
+- the ontological distinction between outgroup and ingroup racial attitudes.
+- the link between racial resentment and political participation in greater detail.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Above
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The probability of whites turning out to vote is negatively associated with racial resentment and relative deprivation.  However, whites who perceive whites are harmed by discrimination more than other groups are far less demobilized by their racial resentment than their peers who perceive less inequality.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Data:
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+ANES. 2012. "2012 Time Series Study." [Data available here](https://electionstudies.org/data-center/2012-time-series-study/).
