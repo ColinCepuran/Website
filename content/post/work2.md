@@ -1,38 +1,30 @@
 ---
 categories:
-- design
-date: "2016-11-05T19:41:01+05:30"
-description: Individual meta description for this post
+- Research
+date: "2020-03-02T19:57:40+05:30"
 draft: false
-image: img/portfolio/logs1.jpg
+image: img/portfolio/Status.png
 showonlyimage: false
-title: This is a Standard Post
+title: Ethnicity, Panethnicity, and Status
 weight: 2
-writer: Göran Svensson
+writer: Colin Cepuran
 ---
 
-This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
+I am in the process of fielding a survey experiment that examines how the relationship between ethnic and panethnic identity varies across racial groups, and how that relationship influences individuals foreign policy attitudes.
 <!--more-->
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+This project, with Cameron Mailhot and Steven Ward, draws on theories of racial/ethnic identity, transnationalism, and diaspora politics, to develop a theory of how identification with domestic identity groups shapes individuals foreign policy commitments.
 
+This experiment will be piloted in the summer of 2020, and will survey the attitudes of Asian, Latinx, and white Americans.
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+## Next steps
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Findings from this experiment will prompt further inquiry into:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+- How white Americans' racial identity attachment leads to their building solidarity with whites in other countries.
+- The distinction between white ethnicity and panethnicity.
+- How group positioning shapes the relationship between ethnicity and panethnicity.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+## Above
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+A sample question from our survey instrument.

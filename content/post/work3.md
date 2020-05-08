@@ -1,7 +1,7 @@
 ---
 categories:
 - Papers
-date: "2020-04-08T19:57:40+05:30"
+date: "2020-05-01T19:57:40+05:30"
 draft: false
 image: img/portfolio/RRD.png
 showonlyimage: false

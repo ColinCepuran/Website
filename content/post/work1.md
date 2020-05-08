@@ -1,34 +1,33 @@
 ---
 categories:
-- design
-date: "2017-02-14T18:25:22+05:30"
+- Research
+date: "2020-03-02T19:57:40+05:30"
 draft: false
-image: img/portfolio/a4-paper.jpg
-showonlyimage: true
-title: Name of the work 1
-weight: 1
-writer: Lukas Herman
+image: img/portfolio/M4A.png
+showonlyimage: false
+title: Medicare for All?
+weight: 2
+writer: Colin Cepuran
 ---
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+I am collaborating with Adrienne Scott to field a framing experiment that examines how senior citizens' concern for their fellow seniors' status might moderate their support for Medicare for All.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Our project is influenced by social identity theory, literature on the wages of whiteness, and scholarship on the influence of deservingness in social policy.  
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Most concretely, we expect that seniors who are most attached to their identity as such will be less likely to support Medicare expansion when they are told that a policy that is "for seniors" will be expanded to include younger people.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+This experiment is currently being pre-tested, and should be fielded in the summer of 2020.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+## Next steps
 
-## Header Level 2
+Findings from this experiment will prompt further inquiry into:
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+- How policy uptake constructs popular understandings of identity labels like "seniors."
+- How anxieties about deservingness are not sidestepped by making social policies universal.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+## Above
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Motivating analysis: We present evidence from the ANES that age acts as a social identity.  Across all years where both survey questions are available, Americans, on average, feel warmer to senior citizens than young people, and the differential warmth only increases with Americans' age.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+ANES. 2019. "2012 Time Series Cumulative Data File." [Data available here](https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/).
