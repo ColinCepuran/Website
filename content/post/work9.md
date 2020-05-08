@@ -3,9 +3,9 @@ categories:
 - Papers
 date: "2020-01-01T20:23:59+05:30"
 draft: false
-image: img/portfolio/Diss.png
+image: img/portfolio/Syllabi.png
 showonlyimage: true
-title: Dissertation
+title: Unexpected bias in syllabi construction
 weight: 8
 writer: Colin Cepuran
 ---
