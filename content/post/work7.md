@@ -17,7 +17,7 @@ The course introduced students to research in political science and social psych
 
 ## Assignments
 
-Student writing completed for our course included:
+Some of the assignments students completed:
 
 * Considering how their own "identity-to-politics link" aligned with, or contradicted, several prominent theories of how identity shapes politics.
 * Examining how they received and responded to political communication in an apolitical echo chamber they inhabited.
