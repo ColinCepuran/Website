@@ -1,32 +1,30 @@
 ---
-date: "2018-01-01T19:57:40+05:30"
+date: "2020-01-19T19:57:40+05:30"
 draft: false
-image: img/portfolio/bike1.jpg
+image: img/portfolio/FWS.png
 showonlyimage: false
-title: Post with a Gallery
+title: First Year Writing Seminar
 weight: 7
-writer: Göran Svensson
+writer: Colin Cepuran
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+In the spring of 2020 I designed, prepped, and taught a first year writing seminar on the "identity politics debate" in the United States.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The course introduced students to research in political science and social psychology, as well as numerous polemics written for a popular audience.  The course began with discussions of the origins of "identity politics," considering theories developed in the minimal group paradigm, by political psychologists, and by scholars of Race, Ethnicity, and Politics.  We then read normative critiques of identity politics forwarded by academics on the center-right, the Marxian left, and by scholars of intersectionality.  Our course concluded by examining how identities rarely centered in the "identity politics debate" shape Americans' political attitudes and behavior.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+ Students were asked to write both about their own identities, and how political elites made claims about the status or belonging of social identity groups.  You can find some examples of assignments students completed below.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Assignments
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Student writing completed for our course included:
 
-## Header Level 2
+* Considering how their own "identity-to-politics link" aligned with, or contradicted, several prominent theories of how identity shapes politics.
+* Examining how they received and responded to political communication in an apolitical echo chamber they inhabited.
+* Tracing how a candidate seeking office in 2018 or 2020 made claims on behalf of, or about, an identity group in the United States.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Course materials
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+You can find a syllabus for this class [here](https://www.dropbox.com/s/brfzw9qu7aevwed/FINAL%20SYLLABUS.pdf?dl=0).
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+You can find the recommended reading list for this class [here](https://www.dropbox.com/s/q741ryh311rs03q/FINAL%20Recommended%20Reading%20List.pdf?dl=0).
