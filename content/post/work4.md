@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- test
 date: "2017-11-21T19:50:47+05:30"
 draft: false
 image: ""
