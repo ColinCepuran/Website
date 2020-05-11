@@ -18,5 +18,7 @@ We draw on theories of primacy and recency bias, as well as common practices in 
 
 ## Above
 
+First authors with last names starting with "A" and "Z" are overrepresented in political science syllabi relative to top journals.
+
 Authors' calculations.  Hardt, H., Smith, E., Kim, H., & Meister, P. (2019). The Gender Readings Gap in Political Science Graduate Training. *The Journal of Politics*, *81*(4).
 
