@@ -3,7 +3,7 @@ categories:
 - Papers
 date: "2020-01-01T20:23:59+05:30"
 draft: false
-image: img/portfolio/Syllabi.tif
+image: img/portfolio/7-6 Hardt Comparison.png
 showonlyimage: true
 title: Unexpected bias in syllabi construction
 weight: 8
