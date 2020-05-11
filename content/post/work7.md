@@ -27,6 +27,6 @@ Some of the assignments students completed:
 
 ## Course materials
 
-You can find a syllabus for this class [here](https://www.dropbox.com/s/brfzw9qu7aevwed/FINAL%20SYLLABUS.pdf?dl=0).
+You can find a syllabus for this class [here](https://www.dropbox.com/s/l20v6bz95wam5ss/FINAL%20SYLLABUS%20NO%20LINKS.pdf?dl=0).
 
-You can find the recommended reading list for this class [here](https://www.dropbox.com/s/q741ryh311rs03q/FINAL%20Recommended%20Reading%20List.pdf?dl=0).
+You can find the recommended reading list for this class [here](https://www.dropbox.com/s/8ikez1j92hx5wnp/FINAL%20Recommended%20Reading%20List%20NO%20LINKS.pdf?dl=0).
