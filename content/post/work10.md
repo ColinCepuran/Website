@@ -1,7 +1,7 @@
 ---
 categories:
 - Teaching
-date: "2020-01-19T19:57:40+05:30"
+date: "2020-05-14T19:57:40+05:30"
 draft: false
 image: img/portfolio/Intro.png
 showonlyimage: false
