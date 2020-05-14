@@ -26,7 +26,7 @@ paginate = 5 #frontpage pagination
   description = "Colin Cepuran's website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Colin Cepuran"
-  authorLink = "https://appernetic.io/"
+  authorLink = "https://www.colincepuran.com/"
   bio = [
     "Colin Cepuran is a political scientist and a Ph.D. candidate at Cornell University."
   ]
@@ -79,8 +79,8 @@ paginate = 5 #frontpage pagination
 
 # this will also be in author bio if there is no writer.
   [params.social]
-  twitter       = "www.twitter.com/colincepuran"
-  linkedin      = "www.linkedin.com/in/colin-cepuran-864012aa"
+  twitter       = "https://www.twitter.com/colincepuran"
+  linkedin      = "https://www.linkedin.com/in/colin-cepuran-864012aa"
   rss           = true
 
 
