@@ -3,7 +3,7 @@ categories:
 - Dissertation
 date: "2020-05-08T20:23:59+05:30"
 draft: false
-image: img/portfolio/Diss.png
+image: img/portfolio/Diss640.png
 showonlyimage: true
 title: Dissertation
 weight: 8
