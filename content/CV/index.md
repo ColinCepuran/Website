@@ -3,4 +3,4 @@ title: CV
 
 ---
 
-You can download a copy of my CV [here](https://www.dropbox.com/s/zcz60omqv7uc5t3/Cepuran%202020-07%20CV.pdf?dl=0).
+You can download a copy of my CV [here](https://www.dropbox.com/s/vhaf6jdne9r02lm/Cepuran%202020-08%20CV.pdf?dl=0).
