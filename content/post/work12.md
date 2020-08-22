@@ -20,6 +20,22 @@ In a working analysis with Justin Berry, I examine state-by-state variation in t
 
 In states that ultimately were more competitive (i.e. WI, NC, NH), Sanders supporters broke for Clinton with far more reliability.  There is some additional evidence that campaign infrastructure (i.e. IA, NH) could have played a role in converting Sanders supporters.
 
+## Other Analyses
+
+[Abortion attitudes and voting behavior](https://www.colincepuran.com/img/Abortion_ForWeb)
+
+[Primary timing and voting behavior](https://www.colincepuran.com/img/Date)
+
+[Field operations and voting behavior](https://www.colincepuran.com/img/FieldOperations)
+
+[Trump field operations and voting behavior](https://www.colincepuran.com/img/TrumpField)
+
+[State macropartisanship and voting behavior](https://www.colincepuran.com/img/PID_ForWeb)
+
+[Primary/caucus format and voting behavior](https://www.colincepuran.com/img/PrimaryCaucus)
+
+
+
 ## Data
 
 FiveThirtyEight. 2016. "Who will win the presidency?"  https://projects.fivethirtyeight.com/2016-election-forecast/
