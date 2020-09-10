@@ -15,7 +15,7 @@ I am in the process of fielding a survey experiment that examines how the relati
 
 This project, with Cameron Mailhot and Steven Ward, draws on theories of racial/ethnic identity, transnationalism, and diaspora politics, to develop a theory of how identification with domestic identity groups shapes individuals foreign policy commitments.
 
-This experiment will be piloted in the summer of 2020, and will survey the attitudes of Asian, Latinx, and white Americans.
+This experiment has been piloted, and we are currently analyzing the results of our study.
 
 ## Next steps
 

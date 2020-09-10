@@ -17,7 +17,7 @@ Our project is influenced by social identity theory, literature on the wages of 
 
 Most concretely, we expect that seniors who are most attached to their identity as such will be less likely to support Medicare expansion when they are told that a policy that is "for seniors" will be expanded to include younger people.
 
-This experiment is currently being pre-tested, and should be fielded in the summer of 2020.
+This experiment is currently being pre-tested.
 
 ## Next steps
 

@@ -1,6 +1,6 @@
 ---
 categories:
-- Papers
+- Research
 date: "2020-04-06T19:57:40+05:30"
 draft: false
 image: img/portfolio/Monuments.png
@@ -10,7 +10,7 @@ weight: 5
 writer: Colin Cepuran
 ---
 
-This paper (with Kanika Khanna) under review presents evidence that Confederate Monument Removals in whites' ZIP codes leaded to an increase in whites' reports of racial prejudice that endured for over a year.
+This working paper (with Kanika Khanna) presents evidence that Confederate Monument Removals in whites' ZIP codes leaded to an increase in whites' reports of racial prejudice that endured for over a year.
 <!--more-->
 
 In this paper, we draw on scholarship on white racial attitudes and contextual political behavior to develop a theory of how Confederate Monument Removals shape the political attitudes of American whites.  We draw on data from numerous vintages of the Cooperative Congressional Elections Study, and the Southern Poverty Law Center to identify the effect of Confederate Monument Removals.

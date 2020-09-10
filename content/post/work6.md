@@ -1,6 +1,6 @@
 ---
 categories:
-- Papers
+- Research
 date: "2020-01-30T19:57:40+05:30"
 draft: false
 image: img/portfolio/RelDisc.png

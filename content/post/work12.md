@@ -1,6 +1,6 @@
 ---
 categories:
-- Public Writing
+- Research
 date: "2020-05-18T19:57:40+05:30"
 draft: false
 image: img/portfolio/Bernie.png
@@ -14,7 +14,7 @@ Extensive discussion after the 2016 Elections framed low support for Clinton amo
 
 <!--more-->
 
-In a working analysis with Justin Berry, Sara Sadhwani, and Adriana Vance, I examine state-by-state variation in the proportion of Sanders voters who voted for Clinton in the general election.  We identify substantial state-by-state variation, suggesting that a compelling explanation needs to incorporate additional evidence beyond candidate favorability.
+In a working analysis with Justin Berry and Adriana Vance, we examine state-by-state variation in the proportion of Sanders voters who voted for Clinton in the general election.  We identify substantial state-by-state variation, suggesting that a compelling explanation needs to incorporate additional evidence beyond candidate favorability.
 
 [In this dynamic plot](https://www.colincepuran.com/img/forweb), we provide some evidence that Sanders supporters were less likely to vote for Clinton if a) the state was very uncompetitive in 2016 (i.e. NY, CA, WV, KY), b) the state was *perceived* as uncompetitive in 2016, or c), Sanders can be inferred to have benefited from an anti-Clinton vote in the primaries (again, WV, KY).
 
