@@ -1,7 +1,7 @@
 ---
 categories:
 - Research
-date: "2020-04-06T19:57:40+05:30"
+date: "2020-08-31T19:57:40+05:30"
 draft: false
 image: img/portfolio/Monuments.png
 showonlyimage: false

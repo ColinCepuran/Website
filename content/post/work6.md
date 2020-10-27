@@ -1,7 +1,7 @@
 ---
 categories:
 - Research
-date: "2020-01-30T19:57:40+05:30"
+date: "2020-10-20T19:57:40+05:30"
 draft: false
 image: img/portfolio/RelDisc.png
 showonlyimage: false
@@ -10,10 +10,10 @@ weight: 6
 writer: Colin Cepuran
 ---
 
-One of my papers under review examines how individuals' perceptions of their panethnic group's discrimination relative to other groups predicts their vote choice.
+One of my papers, accepted at *Politics, Groups, and Identities* with Justin Berry and Sergio Garcia-Rios, examines how individuals' perceptions of their panethnic group's discrimination relative to other groups predicts their vote choice.
 <!--more-->
 
-In this paper, with Justin Berry, and Sergio Garcia-Rios, we draw on theories of group positioning and political polarization to develop a theory of how Americans locate their panethnic group in the American racial hierarchy.  Furthermore, we present evidence of how those perceptions influence Americans' vote choice.
+In this paper we draw on theories of group positioning and political polarization to develop a theory of how Americans locate their panethnic group in the American racial hierarchy.  Furthermore, we present evidence of how those perceptions influence Americans' vote choice.
 
 We draw on data from numerous vintages of the Collaborative Multiracial Post-Election Survey, and the American National Elections Study.
 

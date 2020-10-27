@@ -1,7 +1,7 @@
 ---
 categories:
 - Research
-date: "2020-05-01T19:57:40+05:30"
+date: "2020-09-15T19:57:40+05:30"
 draft: false
 image: img/portfolio/RRRD.png
 showonlyimage: false
@@ -10,7 +10,7 @@ weight: 3
 writer: Colin Cepuran
 ---
 
-This paper under review presents evidence that racial resentment and perceptions of relative deprivation have independent, negative effects on white voter turnout, but that, interactively, they have a positive effect.
+This paper with Justin Berry--in progress--presents evidence that racial resentment and perceptions of relative deprivation have independent, negative effects on white voter turnout, but that, interactively, they have a positive effect.
 <!--more-->
 
 To make these claims, I draw on scholarship on group threat and political polarization to theorize a link between white's perceptions of relative deprivation, racial resentment, and voter turnout.  I use data from the 2012 and 2016 vintages of the ANES to test that relationship.
