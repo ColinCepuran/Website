@@ -28,7 +28,7 @@ paginate = 5 #frontpage pagination
   author = "Colin Cepuran"
   authorLink = "https://www.colincepuran.com/"
   bio = [
-    "Colin Cepuran is a political scientist and a Ph.D. candidate at Cornell University."
+    "Colin Cepuran is a political scientist and a policy analyst working in Houston, TX."
   ]
   copyright = [
     "&copy; 2020 Colin Cepuran",
