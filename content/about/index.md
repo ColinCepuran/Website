@@ -4,7 +4,7 @@ title: About me
 
 I am a Senior Justice Policy Analyst at the Harris County Justice Administration Department in Houston, TX. I identify, analyze, and study the implementation of policies to facilitate public safety, justice, and equality in Harris County, without the involvement of punitive criminal justice institutions.
 
-I am very nearly finished with my PhD in Cornell University's Government Department, where I studied Race, Ethnicity, and Politics, Policy Studies, and American Political Development.  Prior to my study at Cornell, I worked in local politics, consulting for multiple local races in Southwestern Michigan, and managed a State Representative's re-election campaign.
+Previously, I was a PhD candidate in Cornell University's Government Department, where I studied Race, Ethnicity, and Politics, Policy Studies, and American Political Development. I recently defended my dissertation. Prior to my study at Cornell, I worked in local politics, consulting for multiple local races in Southwestern Michigan, and managed a State Representative's re-election campaign.
 
 ![This is me][1]
 
