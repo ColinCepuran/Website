@@ -5,7 +5,7 @@ date: "2021-02-26T10:00:40+05:30"
 draft: false
 image: img/portfolio/Figure 1a.png
 showonlyimage: false
-title: The Politics of Electoral Reform
+title: Protecting Public Safety in Harris County
 weight: 1
 writer: Colin Cepuran
 ---
