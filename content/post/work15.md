@@ -10,7 +10,7 @@ weight: 1
 writer: Colin Cepuran
 ---
 
-In this memorandum, presented to the Harris County Commissioners Court on February 25, 2021, I lead a team of analysts in the Harris County Justice Administration Department to show that bail reform in Harris County has not caused an increase in crime in the county.
+In this memorandum, presented to the Harris County Commissioners Court on February 26, 2021, I lead a team of analysts in the Harris County Justice Administration Department to show that bail reform in Harris County has not caused an increase in crime in the county.
 
 <!--more-->
 
