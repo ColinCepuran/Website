@@ -28,6 +28,10 @@ The memo presents additional evidence that those increases cannot be attributed 
 - Commissioners Court staff, members of Commissioners Court, and the Mayor of Houston each received a version of this report and/or a briefing on it.
 - The report is part of a broader effort to support Harris County ending wealth-based detention, and to show the benefits to public safety gained by doing so. 
 
+## The Report
+
+You can find a copy of the report [here](https://jad.harriscountytx.gov/Portals/70/documents/FOR%20COURT%20SUBMISSION%202021-02-07%20Bail%20Reform%20Crime%20and%20Violence%20Memo.pdf?ver=cWZ8pdlXqfIp7Oki_oXA8g%3d%3d), 
+
 ## Above
 
 An examination of the timing, key events, and patterns of misdemeanor bail reform in Harris County.
