@@ -30,7 +30,7 @@ The memo presents additional evidence that those increases cannot be attributed 
 
 ## The Report
 
-You can find a copy of the report [here](https://jad.harriscountytx.gov/Portals/70/documents/FOR%20COURT%20SUBMISSION%202021-02-07%20Bail%20Reform%20Crime%20and%20Violence%20Memo.pdf?ver=cWZ8pdlXqfIp7Oki_oXA8g%3d%3d), 
+You can find a copy of the report [here](https://jad.harriscountytx.gov/Portals/70/documents/FOR%20COURT%20SUBMISSION%202021-02-07%20Bail%20Reform%20Crime%20and%20Violence%20Memo.pdf?ver=cWZ8pdlXqfIp7Oki_oXA8g%3d%3d) and you can see a copy of the presentation I gave to Commissioners Court [here](https://jad.harriscountytx.gov/Portals/70/documents/Final-Draft-for-Presentation-2021-02-26.pdf?ver=uERQlO-if9o8dv1y0XGMew%3d%3d).
 
 ## Above
 
